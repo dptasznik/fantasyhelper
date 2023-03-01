@@ -13,6 +13,7 @@ Paste these values between their respective quotes in the oauth2.json file.
 For the code to work:
 
 -Run the script from Terminal/Command Prompt and log into your Yahoo account through the OAuth process (it will take you to Yahoo automatically).
+
 -Find your league ID in square brackets on your Terminal/Command Prompt console. Copy it to the lg object in the Python script.
 
 From there, play around with the different functions! You can view your team in the console (this will help find player numbers), add, drop, and waiver players.
